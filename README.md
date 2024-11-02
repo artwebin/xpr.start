@@ -186,7 +186,6 @@ api.protonnz.com:9876
 proton.protonuk.io:9876
 proton.p2p.eosusa.io:9879
 proton.cryptolions.io:9876
-main.proton.kiwi:9786
 protonp2p.eoscafeblock.com:9130
 p2p.alvosec.com:9876
 p2p.protonmt.com:9876
